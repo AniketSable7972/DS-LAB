@@ -1,0 +1,9 @@
+for Ring Algorithm
+javac Ring.java 
+java Ring.java 
+
+
+for Bully Algorithm
+javac Bully.java 
+java Bully.java
+

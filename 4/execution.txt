@@ -1,0 +1,11 @@
+Terminal 1:
+python Server.py
+
+Terminal 2:
+python Client.py
+
+Terminal 3:
+python Client.py
+
+Terminal 4:
+python Client.py
